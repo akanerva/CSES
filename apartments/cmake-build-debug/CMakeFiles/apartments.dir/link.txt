@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/apartments.dir/main.cpp.o  -o apartments.exe -Wl,--out-implib,libapartments.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
