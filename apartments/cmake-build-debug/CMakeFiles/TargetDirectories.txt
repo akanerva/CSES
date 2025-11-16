@@ -1,3 +1,0 @@
-/cygdrive/c/Users/Kaleksi/Documents/cses/apartments/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/Kaleksi/Documents/cses/apartments/cmake-build-debug/CMakeFiles/apartments.dir
-/cygdrive/c/Users/Kaleksi/Documents/cses/apartments/cmake-build-debug/CMakeFiles/edit_cache.dir
